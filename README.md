@@ -11,5 +11,3 @@
 ##### 3. PivotTables – to summarise the data for the charts.
 ##### 4. Pivot Charts – to visualise your data.
 ##### 5. Creating PPT of the outcomes.
-## Dashboard:-
-![image](https://github.com/gauraishwarya/Project-Images/blob/main/59%20years%20of%20human%20in%20space.png?raw=true)
