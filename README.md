@@ -3,16 +3,13 @@
 ## Objective:-
 - ##### To provide a comprehensive examination of sales performance across various states and cities over the years.
 ## Tech Stack Used:-
+![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Microsoft%20sql%20server%20icon.png?raw=true)
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Excel%20icon.png?raw=true)
 ## Steps:-
 ##### 1. Power Query - get the data from the Text/CSV files and Data Cleaning. 
-##### 2. Power Pivot – model the data and write DAX measures.
+##### 2. Analysis using MS SQL server
 ##### 3. PivotTables – to summarise the data for the charts.
 ##### 4. Pivot Charts – to visualise your data.
-##### 5. Cross Highlighting and Filtering Charts.
-##### 6. Slicers – allow filtering of the charts.
-##### 7. Map Charts – Excel Map charts use Bing maps to plot data.
-##### 8. TEXT Function – create dynamic labels that update with your reports.
-##### 9. Custom Number Formatting – to hide the negative values in the People in Space chart.
+##### 5. Creating PPT of the outcomes.
 ## Dashboard:-
 ![image](https://github.com/gauraishwarya/Project-Images/blob/main/59%20years%20of%20human%20in%20space.png?raw=true)
