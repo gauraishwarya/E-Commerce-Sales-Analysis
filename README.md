@@ -1,7 +1,7 @@
-# 59 Years Of Humans In Space
+# E-Commerce Sales Analysis.
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/59%20years%20of%20human%20in%20space%202.png?raw=true)
 ## Objective:-
-- ##### The objective of project is to prepare a dashboard to study the data of 59 years of humans in space.
+- ##### to provide a comprehensive examination of sales performance across various states and cities over the years.
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Excel%20icon.png?raw=true)
 ## Steps:-
