@@ -1,7 +1,7 @@
 # E-Commerce Sales Analysis.
-![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/59%20years%20of%20human%20in%20space%202.png?raw=true)
+![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/E%20commerce%20sales%20analysis.png?raw=true)
 ## Objective:-
-- ##### to provide a comprehensive examination of sales performance across various states and cities over the years.
+- ##### To provide a comprehensive examination of sales performance across various states and cities over the years.
 ## Tech Stack Used:-
 ![Techstack](https://github.com/gauraishwarya/Project-Images/blob/main/Excel%20icon.png?raw=true)
 ## Steps:-
